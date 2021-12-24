@@ -11,4 +11,4 @@ Given below are the fields:
 5) Review text
 6) Number of people who found the review helpful
 
-Dataset Link: https://www.kaggle.com/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones
+Please download dataset from the Link: https://www.kaggle.com/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones
