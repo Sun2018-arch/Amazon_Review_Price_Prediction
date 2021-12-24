@@ -4,9 +4,11 @@ PromptCloud extracted 400 thousand reviews of unlocked mobile phones sold on Ama
 Content
 Given below are the fields:
 
-Product Title
-Brand
-Price
-Rating
-Review text
-Number of people who found the review helpful
+1) Product Title
+2) Brand
+3) Price
+4) Rating
+5) Review text
+6) Number of people who found the review helpful
+
+Dataset Link: https://www.kaggle.com/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones
